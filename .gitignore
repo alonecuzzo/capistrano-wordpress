@@ -1,0 +1,5 @@
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+env_local
+/application/wp-content/uploads
